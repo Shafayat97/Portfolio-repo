@@ -1,3 +1,28 @@
 h1{color: rgb(3, 36, 145);
  text-align: center;
 }
+span{color: orangered   ;}
+body{font-family: 'Poppins', sans-serif;
+margin: 0%;}
+h1{font-size: 40px;}
+h1{margin-top: 70px;}
+h3{color: orange;
+font-size: 38px;
+margin-left: 30px;}
+p{font-size: 16px;
+padding-left: 30px;}
+section{display: flex;}
+#img{margin-top: 40px;
+     width: 50%;}
+div{width: 50%;}
+a{padding-left: 100px;}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 0, 0, 0.596), rgba(255, 166, 0, 0.699));
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.top-banner{background-image: url(top-banner.png);
+background-repeat: no-repeat;}
